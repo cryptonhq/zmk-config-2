@@ -24,9 +24,6 @@ manifest:
     - name: zmk-rgbled-widget
       remote: caksoylar
       revision: main
-    - name: zmk-helpers
-      remote: urob
-      revision: main
     - name: cirque-input-module
       remote: petejohanson
       revision: main
