@@ -12,10 +12,10 @@
                 <&inc_dec_kp C_VOL_UP C_VOL_DN>;
 
             bindings = <
-&kp GRAVE  &kp Q  &kp W     &kp E      &kp R    &kp T                              &kp Y        &kp U     &kp I      &kp O      &kp P         &kp TILDE
-&kp LGUI   &kp A  &kp S     &kp D      &kp F    &kp G                              &kp H        &kp J     &kp K      &kp L      &kp LA(BSPC)  &kp RGUI
-&kp LSHFT  &kp Z  &kp X     &kp C      &kp V    &kp B        &kp C_MUTE  &kp C_PP  &kp N        &kp M     &kp COMMA  &kp DOT    &kp FSLH      &kp BSLH
-                  &kp LALT  &kp LCTRL  &kp ESC  &lt 1 SPACE                        &lt 2 ENTER  &kp BSPC  &kp LEFT   &kp RIGHT
+&kp GRAVE  &kp Q  &kp W     &kp E    &kp R        &kp T                          &kp Y        &kp U        &kp I          &kp O          &kp P         &kp TILDE
+&kp LGUI   &kp A  &kp S     &kp D    &kp F        &kp G                          &kp H        &kp J        &kp K          &kp L          &kp LA(BSPC)  &kp LEFT_CONTROL
+&kp LSHFT  &kp Z  &kp X     &kp C    &kp V        &kp B    &kp C_MUTE  &kp C_PP  &kp N        &kp M        &kp COMMA      &kp DOT        &kp FSLH      &kp BSLH
+                  &kp LALT  &kp ESC  &lt 1 SPACE  &kp TAB                        &kp LS(TAB)  &lt 2 ENTER  &kp BACKSPACE  &kp RIGHT_ALT
             >;
         };
 
